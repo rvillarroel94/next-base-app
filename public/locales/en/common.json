@@ -1,0 +1,138 @@
+{
+    "lng": "en",
+    "seo": {
+      "title": "Slogan App | APP_NAME",
+      "description": ""
+    },
+  
+    "pages": {
+      "index": "Home",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+  
+    "footer":{
+      "about": "About",
+      "about-link": "About Us",
+      "terms": "Terms and Conditions",
+      "cookies": "Cookies Policy",
+      "privacy": "Privacy Policy",
+      "rights": "All Rights Reserved",
+      "follow": "Follow Us",
+      "made": "RDATOS",
+      "slogan": ""
+    },
+    
+    "index":{
+      "header-title": "RDATOS provide solutions",
+      "header-button": "Contact Us!"
+    },   
+  
+    "auth":{
+      "sign-up": "Sign Up RdatosID",
+      "sign-up-google-label": "Sign Up with Google",
+      "sign-up-github-label": "Sign Up with GitHub",
+      "sign-up-email-label": "Or sign up with e-mail",
+      "sign-up-action-label": "Sign Up",
+  
+      "name-label": "Full Name",
+      "email-label": "E-mail",
+      "pass-label": "Password"
+    },
+  
+    "services":{
+      "service-one": "Service One",
+      "title": "Services",
+      "title-header": "Innovate with US"
+    },
+  
+    "solutions":{
+      "solution-one": "Solution Two",
+      "title": "Solutions",
+      "title-header": "Use the latest technology"      
+    },
+    
+    "solution-one": {
+      "title": "Data Analysis",
+      "sub-title": "Turn your data into knowledge and business",
+      "mini-descrip": "Trust the data and launch into the future, finding solutions together with our Team.",
+      "text-one": "Website maintenance for {{months}} months"
+    },
+  
+    "contact":{
+      "title": "Contact Us",
+      "sub-title": "We would love to hear from you",
+      "name-label": "Your name",
+      "name-placeholder": "Marcos Villamar",
+      "email-label": "Your email address",
+      "email-placeholder": "marcos.villamar@example.com",
+      "phone-label": "Your phone",
+      "phone-placeholder": "+593945121165",
+      "subject-label": "Subject",
+      "subject-placeholder": "Information - Services by APP_NAME",
+      "message-label": "Your message",
+      "message-placeholder": "I want to know more about your services ",
+      "send-action-label": "Send",
+      "phone-label-card": "Phone",
+      "mail-label": "Email",
+      "location-label": "Location"
+    },
+  
+    "blog":{
+      "title": "Blog",
+      "title-header": "Featured Information",
+      "time-read": "{{val, number}} min read",
+      "no-post": "No posts to show",
+      "not-found-text": "Go to Blog page"
+    },
+  
+    "about":{
+      "title": "Who we are",
+      "descrip-1": "Loren insup loren insup Loren insup loren insup Loren insup loren insup Loren insup loren insup Loren insup loren insup"
+    },
+  
+    "terms":{
+      "title": "Terms and Conditions",
+      "note": "Important: only spanish version."
+    },
+  
+    "privacy":{
+      "title": "Privacy Policy",
+      "note": "Important: only spanish version."
+    },
+  
+    "cookies":{
+      "title": "Cookies Policy",
+      "note": "Important: only spanish version."
+    },
+  
+    "in-develop":{
+      "title": "Coming soon!!",
+      "sub-title": "Stay tuned for something amazing"
+    },
+  
+    "utils": {
+      "loading": "Loading...",
+      "more": "More info",
+      "more-services": "More services",
+      "more-solutions": "More solutions",
+      "online-msj": "App is online",
+      "offline-msj": "No internet connection",
+      "cookie-msj-1": "APP_NAME uses cookies to provide necessary website functionality, improve your experience and analyze our traffic. By using our website, you agree to our ",
+      "cookie-msj-2": " and our ",
+      "cookie-accept": "Allow",
+      "cookie-deny": "Close"
+    },
+  
+    "error": {
+      "required": "Field required",
+      "email": "Email invalid",
+  
+      "404":{
+        "title": "OPSS!",
+        "msj": "Sorry",
+        "msj-2": "We can't find the page you are looking for.",
+        "msj-3": "This is a 404 error."
+      }
+    }
+  }

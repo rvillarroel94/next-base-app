@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .animated{
+        @apply transition-transform duration-300 transform hover:-translate-y-0.5 active:-translate-y-0.5 !important;
+    }
+
+    .link {
+        @apply cursor-pointer no-underline animated;
+    }
+}
